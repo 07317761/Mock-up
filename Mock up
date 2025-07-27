@@ -1,0 +1,8 @@
+# Mock-upcd your-project-folder-name
+
+git init
+git add .
+git commit -m "Initial Mockup App"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/mockup-app.git
+git push -u origin mainReviews 
